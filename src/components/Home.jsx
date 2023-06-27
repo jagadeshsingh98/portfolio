@@ -7,9 +7,9 @@ const Home = () => {
 
      <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
 
-        <div className='flex flex-col justify-center h-full mt-80'>
-            <h2 className='text-4xl sm:text-7xl font-bold text-white'>
-                I'm a Full Stack Developer
+        <div className='flex flex-col justify-center h-full mt-60'>
+            <h2 className='text-4xl sm:text-7xl font-bold text-white '>
+                I'm a Front-End Developer
             </h2>
             <p className='text-gray-500 py-4 max-w-md'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste excepturi fugit facilis quidem minus? Placeat voluptatum alias culpa id sunt?</p>
 
@@ -18,7 +18,7 @@ const Home = () => {
             </div>
         </div>
         <div>
-            <img className='w-80 rounded-2xl  ' src={HeroImage} alt="hero" />
+            <img className='w-80 rounded-2xl ' src={HeroImage} alt="hero" />
         </div>
      </div>
     </div>
