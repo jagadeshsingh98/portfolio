@@ -11,7 +11,7 @@ const Home = () => {
             <h2 className='text-4xl sm:text-7xl font-bold text-white '>
                 I'm a Front-End Developer
             </h2>
-            <p className='text-gray-500 py-4 max-w-md'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste excepturi fugit facilis quidem minus? Placeat voluptatum alias culpa id sunt?</p>
+            <p className='text-gray-500 py-4 max-w-md'>I'm jagadesh, a passionate and creative front-end developer with a knack for crafting captivating and user-friendly web experiences. With a keen eye for design and a strong command over the latest front-end technologies, I specialize in turning ideas into stunning digital realities.</p>
 
             <div>
                 <button className='text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>portfolio</button>
